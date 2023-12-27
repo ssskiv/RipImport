@@ -11,7 +11,7 @@ bl_info = {
     "name": "NinjaRipper RIP Format",
     "author": "Dummiesman",
     "version": (0, 0, 1),
-    "blender": (2, 77, 0),
+    "blender": (3, 2, 0),
     "location": "File > Import",
     "description": "Import RIP files",
     "warning": "",
